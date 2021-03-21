@@ -1,17 +1,13 @@
-### hello, world! 👋
+<img align="left" style="padding-right:2rem" width="256" src="https://raw.githubusercontent.com/restrafes/restrafes/main/assets/mugshot-img.png"/>
 
-<img align="left" width="256" src=""/>
+## <b>hello, world!</b>
+### about me
+My name is Pete. I'm a 16 year old high school student who intends
+to major in computer science and engineering.
 
-**restrafes/restrafes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've been programming and tinkering with computer hardware as a passion since I was eight years old.
+The idea of computers having the potential to solve many of the world's problems is fascinating to me.
 
-Here are some ideas to get you started:
+I plan on using GitHub as a base for my portfolio, containing all of my open source work and demonstrating my ability to collaborate with others.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+Pronouns: he/him.
