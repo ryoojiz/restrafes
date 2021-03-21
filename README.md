@@ -1,5 +1,4 @@
 <img align="left" style="padding-right:2rem" width="240" src="https://raw.githubusercontent.com/restrafes/restrafes/main/assets/mugshot-img.png"/>
-
 ### <b>hello, world!</b>
 My name is Pete. I'm a 16 year old high school student who intends
 to major in computer science and engineering.
