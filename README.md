@@ -8,5 +8,3 @@ I've been programming and tinkering with computer hardware as a passion since I 
 The idea of computers having the potential to solve many of the world's problems is fascinating to me.
 
 I plan on using GitHub as a base for my portfolio, containing all of my open source work and demonstrating my ability to collaborate with others.
-
-Pronouns: he/him.
